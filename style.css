@@ -1,0 +1,41 @@
+body {background-color: #404040;}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  color: #FFFFFF
+}
+h1 {
+  font-family: "Trebuchet MS", Sans, serif;
+  font-size: 30px;
+  color: #FFFFFF
+}
+h2 {
+  font-family: "Trebuchet MS", Sans, serif;
+  font-size: 22.5px;
+  color: white;
+}
+h3 {
+  font-family: "Trebuchet MS", Sans, serif;
+  font-size: 22.5px;
+  color: white;
+}
+a {
+  color: orange;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+hr{
+  color: orange;
+  border: 0;
+  width: 100%;
+background-color: black;
+height: 7.5px;
+}
+div {
+  width: 320px;
+  height: 50px;
+  padding: 10px;
+  border: 5px solid black;
+  margin: 0;
+  font-family: "Trebuchet MS", Sans, serif;
+}
